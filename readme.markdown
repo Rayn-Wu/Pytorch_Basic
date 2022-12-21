@@ -1,7 +1,6 @@
-# Pytorch_Learning
+# Pytorch Learning
 
 ## Notes_imgs
-## 神经网络基础
 ![1](https://user-images.githubusercontent.com/78060545/165252729-701e65a1-bcf9-4c66-9743-7ae4e3123f32.jpg)
 ![2](https://user-images.githubusercontent.com/78060545/165252760-594e62ce-9b8b-4172-b021-a08128857d07.jpg)
 ![3](https://user-images.githubusercontent.com/78060545/165253046-d04290c7-2c40-4755-aa9a-329072003463.jpg)
